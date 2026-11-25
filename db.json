@@ -1,0 +1,148 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "nome": "Teclado Mecânico RGB",
+      "descricao": "Teclado compacto switch blue com iluminação configurável.",
+      "preco": 249.9,
+      "imagem": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?w=400",
+      "estoque": 10
+    },
+    {
+      "id": "2",
+      "nome": "Mouse Gamer Sem Fio",
+      "descricao": "Sensor óptico de 12000 DPI e bateria recarregável.",
+      "preco": 159.9,
+      "imagem": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=400",
+      "estoque": 2
+    },
+    {
+      "id": "3",
+      "nome": "Headset Surround 7.1",
+      "descricao": "Áudio imersivo com microfone com cancelamento de ruído.",
+      "preco": 299.0,
+      "imagem": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400",
+      "estoque": 0
+    },
+    {
+      "id": "4",
+      "nome": "Monitor 24 Polegadas IPS",
+      "descricao": "Tela Full HD 75Hz com bordas ultrafinas.",
+      "preco": 799.9,
+      "imagem": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=400",
+      "estoque": 5
+    },
+    {
+      "id": "5",
+      "nome": "Webcam Full HD 1080p",
+      "descricao": "Ideal para reuniões e aulas online com foco automático.",
+      "preco": 189.5,
+      "imagem": "https://images.unsplash.com/photo-1587826080692-f439cd0b70da?w=400",
+      "estoque": 8
+    },
+    {
+      "id": "6",
+      "nome": "Mousepad Extra Grande",
+      "descricao": "Base emborrachada antiderrapante 80x30cm.",
+      "preco": 59.9,
+      "imagem": "https://images.unsplash.com/photo-1616788494707-ec28f08d05a1?w=400",
+      "estoque": 15
+    },
+    {
+      "id": "7",
+      "nome": "Suporte Articulado para Monitor",
+      "descricao": "Pistão a gás para telas de 17 a 32 polegadas.",
+      "preco": 179.0,
+      "imagem": "https://images.unsplash.com/photo-1586210579191-33b45e38fa2c?w=400",
+      "estoque": 1
+    },
+    {
+      "id": "8",
+      "nome": "Hub USB-C 6 em 1",
+      "descricao": "Entradas HDMI 4K, USB 3.0 e leitor de cartão SD.",
+      "preco": 129.9,
+      "imagem": "https://images.unsplash.com/photo-1625842268584-8f3296236761?w=400",
+      "estoque": 12
+    },
+    {
+      "id": "9",
+      "nome": "Notebook Ultrafino",
+      "descricao": "Notebook leve para estudos, trabalho e tarefas do dia a dia.",
+      "preco": 3299.9,
+      "imagem": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400",
+      "estoque": 6
+    },
+    {
+      "id": "10",
+      "nome": "Fone Bluetooth",
+      "descricao": "Fone sem fio com estojo de carregamento e conexão Bluetooth.",
+      "preco": 219.9,
+      "imagem": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400",
+      "estoque": 14
+    },
+    {
+      "id": "11",
+      "nome": "Caixa de Som Bluetooth",
+      "descricao": "Caixa portátil compacta para ouvir música em qualquer lugar.",
+      "preco": 189.9,
+      "imagem": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=400",
+      "estoque": 9
+    },
+    {
+      "id": "12",
+      "nome": "Teclado Sem Fio",
+      "descricao": "Teclado compacto com conexão sem fio e teclas silenciosas.",
+      "preco": 119.9,
+      "imagem": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=400",
+      "estoque": 11
+    },
+    {
+      "id": "13",
+      "nome": "Mouse Ergonômico",
+      "descricao": "Design confortável para uso prolongado no trabalho ou estudo.",
+      "preco": 89.9,
+      "imagem": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=400",
+      "estoque": 18
+    },
+    {
+      "id": "14",
+      "nome": "Monitor Ultrawide",
+      "descricao": "Monitor amplo para multitarefa, produtividade e entretenimento.",
+      "preco": 1499.9,
+      "imagem": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=400",
+      "estoque": 4
+    },
+    {
+      "id": "15",
+      "nome": "Microfone USB",
+      "descricao": "Microfone de mesa para chamadas, aulas e gravações.",
+      "preco": 279.9,
+      "imagem": "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=400",
+      "estoque": 7
+    },
+    {
+      "id": "16",
+      "nome": "Carregador USB-C 65W",
+      "descricao": "Carregador compacto com potência para celulares e notebooks compatíveis.",
+      "preco": 149.9,
+      "imagem": "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?w=400",
+      "estoque": 20
+    },
+    {
+      "id": "17",
+      "nome": "SSD Externo 1TB",
+      "descricao": "Armazenamento portátil rápido para arquivos e backups.",
+      "preco": 499.9,
+      "imagem": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?w=400",
+      "estoque": 5
+    },
+    {
+      "id": "18",
+      "nome": "Luminária de Mesa LED",
+      "descricao": "Iluminação ajustável para deixar sua mesa mais confortável.",
+      "preco": 99.9,
+      "imagem": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=400",
+      "estoque": 13
+    }
+  ]
+}
